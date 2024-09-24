@@ -102,7 +102,7 @@ The second exercise involves developing a terminal-based Virtual Classroom Manag
 
    ```bash
    git clone https://github.com/reetjain01/Educational_Initiatives_PlacementTask.git
-   cd your_repo_name
+   cd Educational_Initiatives_PlacementTask
    ```
 
 2. Compile the Java code:
